@@ -67,7 +67,16 @@
 
     <main>
         <h2>INICIO</h2>
+<<<<<<< HEAD
         <p>Pagina en construcción</p>
+=======
+        <p><strong>Página en construcción</strong>[cite: 2]</p>
+        <p>Próximamente más contenido disponible.</p>
+        <img src="images.jpg" alt="instituto">
+        
+        <!-- Imagen añadida en la rama desarrollo -->
+        <img src="imagen_instituto.jpg" alt="Imagen del instituto" class="instituto-img">
+>>>>>>> desarrollo
     </main>
 
     <footer>
